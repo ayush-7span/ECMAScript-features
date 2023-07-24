@@ -1,6 +1,6 @@
 # ECMAScript Features or Cheatsheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click star: if you like the project. Pull Requests are highly appreciated.
 
 ## How to run examples
 ```cmd
@@ -10,7 +10,7 @@ npx babel-node es2020/bigint // Try other examples too
 
 # What is ECMAScript?
 
-**ECMAScript** is the scripting language which acts as the basis of JavaScript. ECMAScript standardized by the ECMA International standards organization in the ECMA-262 and ECMA-402 specifications.
+**ECMAScript** is the scripting language that acts as the basis of JavaScript. ECMAScript is standardized by the ECMA International Standards organization in the ECMA-262 and ECMA-402 specifications.
 Each proposal for an ECMAScript feature goes through the following maturity stages:
 
 1. Stage 0: Strawman;
