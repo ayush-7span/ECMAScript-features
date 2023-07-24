@@ -1,7 +1,8 @@
+
 # ECMAScript Features or Cheatsheet
-
-> Click star: if you like the project. Pull Requests are highly appreciated.
-
+```cmd
+> Click star if you like the project. Pull Requests are highly appreciated.
+```
 ## How to run examples
 ```cmd
 npm install
